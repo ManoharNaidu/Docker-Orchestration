@@ -12,8 +12,8 @@ This is a simple Docker orchestration server using Express and Dockerode. The se
 1. Clone the repository:
 
    ```sh
-   git clone <repository-url>
-   cd <repository-directory>
+   git clone https://github.com/ManoharNaidu/Docker-Orchestration.git
+   cd Docker-Orchestration
    ```
 
 2. Install the dependencies:
